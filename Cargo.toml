@@ -23,7 +23,7 @@ license = "GPL-3.0+"
 links = "cdio"
 
 [build-dependencies]
-bindgen = "0.72"
+bindgen = "0.73"
 cc = { version = "1.4.0" }
 system-deps = "7"
 
